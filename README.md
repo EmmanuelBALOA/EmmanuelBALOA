@@ -29,7 +29,7 @@ Je m'appelle Emmanuel Baloa, un passionné de technologie avec une solide format
 
 ### 📫 Contact
 - **Email** : [emmanuelbaloa@gmail.com](mailto:emmanuel.baloa@example.com)
-- **LinkedIn** : emmanuelbaloa
+- **LinkedIn** : Emmanuel BALOA
 
 ### 💡 Projets Personnels
 - **Système de Domotique IoT** : Un projet intégrant des microcontrôleurs et des capteurs pour créer un environnement domestique intelligent.

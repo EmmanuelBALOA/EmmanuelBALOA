@@ -24,11 +24,11 @@ Je m'appelle Emmanuel Baloa, un passionné de technologie avec une solide format
 
 ### Mon expérience inclut :
 
-- **Développement web : Utilisation de technologies comme Django, HTML, CSS, JavaScript, et Bootstrap pour construire des applications web dynamiques.
+- **Développement web** : Utilisation de technologies comme Django, HTML, CSS, JavaScript, et Bootstrap pour construire des applications web dynamiques.
 
-- **Cybersécurité : Compétences en Kali Linux, audit de systèmes et gestion de la sécurité des réseaux.
+- **Cybersécurité** : Compétences en Kali Linux, audit de systèmes et gestion de la sécurité des réseaux.
 
-- **Programmation embarquée : Conception de projets domotiques avec des microcontrôleurs (Arduino, C++) et utilisation de Raspberry Pi pour divers projets.
+- **Programmation** embarquée : Conception de projets domotiques avec des microcontrôleurs (Arduino, C++) et utilisation de Raspberry Pi pour divers projets.
 
 
 ### 🌱 Apprentissage Actuel

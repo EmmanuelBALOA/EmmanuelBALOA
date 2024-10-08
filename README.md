@@ -17,10 +17,19 @@ Je m'appelle Emmanuel Baloa, un passionné de technologie avec une solide format
 
 ### 🛠️ Compétences et Outils
 - **Langages de Programmation** : Compétent en C++, JavaScript et SQL, avec de l'expérience en Python.
-- **Technologies Web** : HTML, CSS, php,et Node.js.
+- **Technologies Web** : HTML, CSS, Bootstrap, php, Django.
 - **Outils Big Data** : Hadoop, Spark, Kafka et diverses solutions de stockage de données.
 - **Électronique** : Conception de circuits, programmation de microcontrôleurs et conception de PCB.
 - **Réseau** : Configuration réseau, dépannage et protocoles de sécurité.
+
+### Mon expérience inclut :
+
+- **Développement web : Utilisation de technologies comme Django, HTML, CSS, JavaScript, et Bootstrap pour construire des applications web dynamiques.
+
+- **Cybersécurité : Compétences en Kali Linux, audit de systèmes et gestion de la sécurité des réseaux.
+
+- **Programmation embarquée : Conception de projets domotiques avec des microcontrôleurs (Arduino, C++) et utilisation de Raspberry Pi pour divers projets.
+
 
 ### 🌱 Apprentissage Actuel
 - **Techniques Avancées d'Analyse de Données**

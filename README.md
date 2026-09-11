@@ -1,6 +1,6 @@
-# 👨‍💻 Emmanuel BALOA  
+# 👨‍💻 m4nu.sh   
 
-🚀 **DevOps Engineer | Cybersecurity Enthusiast | CTF Player | Embedded Systems Developer**
+🚀 ** Junior DevOps Engineer | Cybersecurity Enthusiast | CTF Player | Embedded Systems Developer**
 
 ---
 
